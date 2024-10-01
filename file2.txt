@@ -1,0 +1,2 @@
+ is line 1 in fil2 
+doing modification  in file2 
